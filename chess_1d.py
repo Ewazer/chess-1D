@@ -391,7 +391,3 @@ def play_chess():
             break
 
 play_chess()
-
-#le roi en peu plus
-
-#i si erreur  reset de i 
